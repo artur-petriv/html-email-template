@@ -26,9 +26,9 @@
   - Желательно использовать безопасные шрифты — https://websitesetup.org/web-safe-fonts-html-css/
   - Использовать — valign, align
   - Всегда cellpadding, cellspacing, border = 0
-  - Переносы только через <br />
+  - Переносы только через — br
   - Использовать только px (не использовать rem, em)
-  - Использовать прехедер — <div style="font-size:0px;font-color:#ffffff;opacity:0;visibility:hidden;width:0;height:0;display:none;">текст прехедера</div>
+  - Использовать прехедер — div style="font-size:0px;font-color:#ffffff;opacity:0;visibility:hidden;width:0;height:0;display:none;" текст прехедера div
   - Всегда использовать цвет фона для любой картинки (прим.: bgcolor="#ffffff")
   - Использовать резиновую верстку или две версий — пк, моб
   - Особое внимание атрибутам "title" у ссылок, "alt" у картинок
