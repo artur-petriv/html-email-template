@@ -16,7 +16,7 @@
 ### Правила
 
 - Общие
-  - <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+  - DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
   - Проверять валидность
   - Использовать inline-стиоли
   - Только табличная верстка
